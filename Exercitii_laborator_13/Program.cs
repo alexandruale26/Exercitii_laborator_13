@@ -52,7 +52,6 @@ namespace Exercitii_laborator_13
             Banca.Instance.conturiCurente.Remove(Dana.ID);
 
 
-
             try
             {
                 pos.Plateste(30000, card2Mihai);
